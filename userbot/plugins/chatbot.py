@@ -21,7 +21,8 @@ plugin_category = "fun"
 
 tired_response = [
     "I am little tired, Please give me some rest",
-    "I said am tried I will be back soon Bye", 
+    "I said am tired I will be back soon Bye",
+    " Don't ask me ", 
     "Who are you to ask me questions Continuously",
     "Leave me alone for some times",
     "Time to Sleep, I will get back to you soon",
